@@ -4,29 +4,29 @@ body {
   padding: 0;
   background-color: RGB(224, 215, 255);
   font-family: "Passion One";
-  font-size: 18px;
+  font-size: 2%;
 }
 div {
-  padding: 30px auto;
-  margin-left: 150px;
-  margin-right: 150px;
+  padding: 3% auto;
+  margin-left: 15%;
+  margin-right: 15%;
   background-color: rgb(253, 253, 150);
 }
 img {
   width: 100%;
-  margin-left: 0px;
-  margin-bottom: 0px;
+  margin-left: 0;
+  margin-bottom: 0;
 }
 H1 {
-  margin-left: 32%;
+  margin-left: 35%;
 }
 p {
-  padding: 10px;
-  padding-bottom: 0px;
-  margin-bottom: 5px;
+  padding: 1%;
+  padding-bottom: 0;
+  margin-bottom: 1%;
 }
 h2 {
-  margin-left: 10px;
+  margin-left: 1%;
 }
 #titel {
   background-color: red;
@@ -36,5 +36,5 @@ a {
   background-color: red;
   color: white;
   font-size: 25px;
-  margin-left: 45%;
+  margin-left: 40%;
 }
