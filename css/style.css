@@ -11,8 +11,8 @@ body {
 .titel {
   margin-left: 38vw;
   margin-right: 38vw;
-  padding-top: 0.001vw;
-  padding-bottom: 0.001vw;
+  padding-top: 0.001vh;
+  padding-bottom: 0.001vh;
   text-align: center;
   background-color: red;
   color: white;
@@ -23,10 +23,11 @@ body {
 }
 
 .titel2 {
+  margin-top: 12vh;
   margin-left: 34vw;
   margin-right: 34vw;
-  padding-top: 0.001vw;
-  padding-bottom: 0.001vw;
+  padding-top: 0.001vh;
+  padding-bottom: 0.001vh;
   text-align: center;
   background-color: red;
   color: white;
@@ -47,8 +48,8 @@ div {
   background-color: RGB(224, 215, 255);
   border-radius: 3%;
   border-style: dashed;
-  margin-top: 1vw;
-  margin-bottom: 3vw;
+  margin-top: 1vh;
+  margin-bottom: 3vh;
   border-width: 0.1cm;
   padding-bottom: 1%;
 }
@@ -94,3 +95,4 @@ h2 {
 .link {
   width: 5%;
 }
+
